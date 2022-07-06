@@ -1,5 +1,7 @@
-##do-script
+#do-script
+
 #syntax 
+
 out "content"
 out 123
 out 1 + 1
