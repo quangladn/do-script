@@ -1,0 +1,20 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-exe": "pkg src-do/do.js --targets node10-win-x64"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "moo": "^0.5.1",
+    "mz": "^2.7.0",
+    "nearley": "^2.20.1",
+    "prompt-sync": "^4.2.0",
+    "util": "^0.12.4"
+  }
+}
