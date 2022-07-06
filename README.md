@@ -1,7 +1,8 @@
-#do-script
+<h1>do-script</h1>
 
-#syntax 
+<h2>syntax</h2>
 
+<p>
 out "content"
 out 123
 out 1 + 1
@@ -40,3 +41,4 @@ resurt:
     'var:$boolern':'bool:true',
     'var:$Expr':'num:2',
     'var:$newName':'var:$varName'}
+</p>
